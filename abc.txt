@@ -1,5 +1,17 @@
 This is from remote repository 
+<<<<<<< HEAD
 File content added on 12-July-16
 Github session on 11-July
 Taken by Balu
 Commit 	wq	
+=======
+
+
+
+changes done
+
+New text added
+>>>>>>> 51f0af48916e3be3ec3042b85f9e854c12ba827e
+
+puttu podi
+puttu
